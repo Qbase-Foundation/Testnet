@@ -1,5 +1,6 @@
 
-Qbase Core 2.0.0.0
+Qbase Core (TESTNET)
+**Not for public use**
 ===============================
 
 What is Qbase?
